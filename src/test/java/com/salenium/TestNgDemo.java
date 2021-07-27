@@ -20,7 +20,7 @@ public class TestNgDemo {
 	}
 	
 	@Test
-	public void googlSearch() {
+	 public void googlSearch() {
 		 driver.get("https://www.google.co.in/");
 		 driver.close();
 	}
